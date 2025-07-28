@@ -1,5 +1,3 @@
-version: "3.7"
-
 services:
 #  caddy:
 #    container_name: caddy
@@ -43,10 +41,10 @@ services:
     ports:
       - "127.0.0.1:8080:8080"
     volumes:
-      - /home/temporary/DaveSearch/settings:/etc/searxng:rw
-      - /home/temporary/DaveSearch/templates:/usr/local/searxng/searx/templates:ro
-      - /home/temporary/DaveSearch/static:/usr/local/searxng/searx/static:ro
-      - /home/temporary/DaveSearch-cache:/var/cache/searxng
+      - ./settings:/etc/searxng:rw
+      - ./templates:/usr/local/searxng/searx/templates:ro
+      - ./static:/usr/local/searxng/searx/static:ro
+      - ~/DaveSearch-cache:/var/cache/searxng
     environment:
       - SEARXNG_BASE_URL=https://${SEARXNG_HOSTNAME:-localhost}/DaveSearch/
       - UWSGI_WORKERS=${SEARXNG_UWSGI_WORKERS:-4}
