@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>empty_favicon</title>
+	<defs>
+		<image  width="19" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAUCAMAAABYi/ZGAAAAAXNSR0IB2cksfwAAAJxQTFRFAAAA/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhVvP0PCwAAADR0Uk5TAJXu/9KMRAXjSYncwwRj72FeWwr+/QiKhMXW2RKlZ1KTCeBoYPtIofOHApaymgNiFH6xj8GLJS8AAACzSURBVHicY2SAAEZGRhBm/AliQ8WYIRQr43cMMQYG9m9wMe4fUAbnF7gYAy8j4xeG/3x/PyP0AoHgJwb+dwwMKGLCQGtfoYkxiDO+YEAXgwGsYpJAI8SfoYpJg8yQfIIiJgtSI/0IRUwerESW8T6SGLv0Q4hDIGZKvWRQYGRQgahQug2mgGGhDHSL+h0QR/UGVEztOlBMixHE/f8PLKbDyHgJ7Gb9n7dhYgh/GAC9fxYuBgBQgCZe3336EAAAAABJRU5ErkJggg=="/>
+		<image  width="20" height="18" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAMAAABsDg4iAAAAAXNSR0IB2cksfwAAAIFQTFRFAAAA/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhV/lhVOAwg6gAAACt0Uk5TAAGdwZf/D2JlCOmRCV7Kz/RNYfEiFK51qgKc4X2gQJL6DfjcvnP+cnr8fOPlhVIAAACeSURBVHicpY9ZC8IwEIRn8CgllaKieFKk/v+foz6KeCCKiAYRi8eGJNjWR+dhN/Ox2YMAyScKIlAl+CjB4AVU7kUYMpNUp87DhisKr2+T4hsU2eLF0vgooXOW0KTxkToBbe6AwUFsl7ZstAd6ssXWmKGDk3VuzthBpKsvTDxE1F/KB260vchL+qYLf6aX9A10GaKGDP/A6fwXqmRmHx+r1SC7wYuKPwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use  href="#img1" x="2" y="2"/>
+	<use  href="#img2" x="2" y="4"/>
+</svg>
